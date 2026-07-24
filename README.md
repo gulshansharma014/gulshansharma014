@@ -1,114 +1,136 @@
-# 👋 Hi, I'm Gulshan Kumar
+<h1 align="center">Hi, I'm Gulshan Kumar 👋</h1>
 
-### Software Engineer | Java • Spring Boot • Distributed Systems • React • AI
+<p align="center">
+  <strong>Software Engineer building scalable backend systems and distributed applications.</strong>
+</p>
 
-I build scalable backend systems, distributed applications, and developer-focused tools that emphasize clean architecture, maintainability, and real-world engineering practices.
+<p align="center">
+  Java 17 · Spring Boot · Apache Kafka · React.js · PostgreSQL · Docker
+</p>
 
-Currently, I work on enterprise applications involving Java, Spring Boot, Kafka, React, PostgreSQL, Couchbase, and OpenSearch while continuously expanding my expertise in cloud-native systems and AI-powered applications.
-
----
-
-## 🚀 What I'm Working On
-
-* 🏗 Building production-quality open-source backend systems
-* ⚡ Designing distributed applications with event-driven architecture
-* 🤖 Exploring AI integrations for developer productivity
-* 📚 Deep diving into System Design and Distributed Systems
-* ☁ Learning AWS and Kubernetes through hands-on projects
+<p align="center">
+  <a href="https://gulshan-dev.vercel.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/gulshankumar014">LinkedIn</a> •
+  <a href="https://leetcode.com/u/Gulshansharma">LeetCode</a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## About Me
 
-### Languages
+I'm a Software Engineer with 3+ years of experience working on enterprise
+applications using Java, Spring Boot, Kafka, React.js, PostgreSQL,
+Couchbase, GraphQL and OpenSearch.
 
-Java • JavaScript • SQL • TypeScript (Learning)
+My primary interests are backend engineering, distributed systems,
+event-driven architecture and designing software that remains maintainable
+as business requirements evolve.
+
+At work, I have contributed to backend services, asynchronous workflows,
+enterprise integrations, data transformation systems, production monitoring
+and internal React applications.
+
+Outside work, I build portfolio-safe engineering projects, study system
+design and solve data structures and algorithms problems.
+
+---
+
+## Tech Stack
 
 ### Backend
 
-Spring Boot • Spring WebFlux • REST APIs • Kafka • GraphQL
+`Java 17` `Spring Boot` `Spring WebFlux` `REST APIs` `GraphQL`
+`JPA` `Hibernate`
+
+### Distributed Systems
+
+`Apache Kafka` `Event-Driven Architecture` `Asynchronous Processing`
+`Retry & Resilience Patterns`
+
+### Data
+
+`PostgreSQL` `Couchbase` `SQL` `R2DBC` `OpenSearch` `Elasticsearch`
 
 ### Frontend
 
-React • Redux • Vite • Tailwind CSS
+`React.js` `JavaScript` `Redux` `Vite` `Tailwind CSS`
 
-### Databases
+### Engineering & Delivery
 
-PostgreSQL • Couchbase • Redis (Learning)
-
-### DevOps
-
-Docker • GitHub Actions • Jenkins • Kubernetes (Learning)
-
-### Observability
-
-OpenSearch • Elasticsearch • Logging • Monitoring
+`Docker` `Jenkins` `GitHub Actions` `JUnit 5` `Mockito`
+`Git` `CI/CD`
 
 ---
 
-## 📌 Featured Projects
+## Selected Projects
 
-### Reservation Comparator Engine
+### 🌐 Engineering Portfolio
 
-A modular comparison framework that detects meaningful business changes between reservation versions using Strategy Pattern and Clean Architecture.
+A responsive engineering portfolio showcasing my experience, projects,
+technical strengths and professional journey.
 
-**Focus:** Extensibility • SOLID • Spring Boot
+**Stack:** React · Vite · Tailwind CSS · Framer Motion
 
----
-
-### Distributed Notification Platform
-
-Event-driven notification platform supporting Email, SMS, and Push Notifications with Kafka, retry strategies, and dead-letter queues.
-
-**Focus:** Distributed Systems • Reliability
+[Live Demo](https://gulshan-dev.vercel.app) ·
+[Repository](https://github.com/gulshansharma014/gulshan-portfolio)
 
 ---
 
-### AI Meeting Assistant
+### 🎥 AI Video Summarizer
 
-AI-powered meeting assistant that summarizes conversations, extracts action items, and generates follow-up notes.
+A full-stack application that extracts video transcripts, generates
+AI-assisted summaries and supports structured content export.
 
-**Focus:** LLMs • AI • Full Stack
+**Stack:** React · Node.js · Express · AI APIs · PDF generation
 
----
-
-### Engineering Common
-
-Reusable engineering components shared across multiple projects, including logging, validation, exception handling, and utilities.
-
-**Focus:** Reusability • Developer Experience
+[Repository](https://github.com/gulshansharma014/ai-video-summarizer)
 
 ---
 
-## 📖 Engineering Philosophy
+### 🤖 AI Meeting Assistant
 
-I believe great software is:
+An evolving AI-powered platform for transcribing meetings, generating
+summaries and identifying actionable follow-ups.
 
-* Simple to understand
-* Easy to maintain
-* Modular by design
-* Well documented
-* Thoroughly tested
-* Built for long-term evolution
+**Focus:** AI integration · Full-stack architecture · Developer productivity
 
-I enjoy understanding *why* systems are designed a certain way—not just how they are implemented.
+[Repository](https://github.com/gulshansharma014/ai-meeting-assistant)
 
 ---
 
-## 📈 2026 Goals
+## Currently Building
 
-* Launch five production-grade open-source repositories
-* Publish one technical article every month
-* Master System Design and Distributed Systems
-* Contribute to open source
-* Join a product engineering team where I can build software at scale
+- Reservation Comparator Engine
+- Distributed Notification Platform
+- Improved AI Meeting Assistant
+- Reusable Spring Boot engineering components
 
 ---
 
-## 🤝 Let's Connect
+## Engineering Interests
 
-* LinkedIn: https://www.linkedin.com/in/gulshankumar014/
-* Portfolio: https://gulshan-dev.vercel.app/
-* LeetCode: https://leetcode.com/u/Gulshansharma/
+- Backend Architecture
+- Distributed Systems
+- Event-Driven Applications
+- System Design
+- Production Reliability
+- AI-powered Developer Tools
 
-Thanks for visiting my profile! If you enjoy discussing software architecture, Java, Spring Boot, or distributed systems, I'd love to connect.
+---
+
+## 2026 Focus
+
+- Build and document production-inspired backend projects
+- Improve system design and distributed systems knowledge
+- Publish practical engineering notes
+- Contribute to open-source projects
+- Prepare for Software Engineer II opportunities
+
+---
+
+## Connect
+
+- Portfolio: [gulshan-dev.vercel.app](https://gulshan-dev.vercel.app)
+- LinkedIn: [gulshankumar014](https://www.linkedin.com/in/gulshankumar014)
+- LeetCode: [Gulshansharma](https://leetcode.com/u/Gulshansharma)
+- Email: [gulshansharma014@gmail.com](mailto:gulshansharma014@gmail.com)
